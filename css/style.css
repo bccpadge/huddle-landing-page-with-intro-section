@@ -42,7 +42,7 @@ body{
 	background-color: var(--violet-clr);
 	min-height: 100vh;
 	line-height: 1.5;
-	background-image: url('/images/bg-mobile.svg');
+	background-image: url('../images/bg-mobile.svg');
 	background-repeat: no-repeat;
 	background-position: top center;
 }
@@ -190,7 +190,7 @@ select {
 
 @media (min-width: 62em){
 	body{
-		background-image: url('/images/bg-desktop.svg');
+		background-image: url('../images/bg-desktop.svg');
 		background-size: cover;
 		background-position: center;
 		max-width: 1320px;
