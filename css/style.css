@@ -56,10 +56,8 @@ a{
 	text-decoration: none;
 }
 
-/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
-ul[role='list'],
-ol[role='list'] {
-  list-style: none;
+ul{
+	list-style:none;
 }
 
 /* Makes images easier to work with */
@@ -206,7 +204,7 @@ select {
 	}
 
 	.hero-banner img{
-		margin-block-start: 110px;
+		margin-block-start: 5.625rem;
 	}
 
 	.hero-container{
