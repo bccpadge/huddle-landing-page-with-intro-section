@@ -208,7 +208,7 @@ select {
 	}
 
 	.hero-container{
-		grid-template-columns: 1.9fr 1fr;
+		grid-template-columns: 1.8fr 1fr;
 		align-items: center;
 		gap: 3rem;
 	}
